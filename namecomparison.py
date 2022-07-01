@@ -15,4 +15,4 @@ if lowerGiven == realAnswer:
 if lowerGiven == secretAnswer:
     print("EXTRA EXTRA: IDIOT BOY " + lowerGiven.upper() + " LEARNS HOW TO TYPE! MORE AT 5PM")
 if lowerGiven != realAnswer or secretAnswer:
-    print("Damn, we have different names " + lowerGiven.upper() + "... Get lost rumpboyt");
+    print("Damn, we have different names " + lowerGiven.upper() + "... Get lost rumpboy");
